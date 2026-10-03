@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+flask
+supabase
+groq
+python-dotenv
